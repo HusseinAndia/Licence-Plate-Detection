@@ -17,10 +17,13 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 
 ## Results
 
-[1](LPR1.png)
+![1](LPR1.png)
 
-[2](LPR2.png)
+![2](LPR2.png)
 
 
-https://user-images.githubusercontent.com/35173020/147701756-e572e03e-6c6d-4c14-a363-472c155770fc.mp4
+![Watch the video!](https://user-images.githubusercontent.com/35173020/147704673-dfe4be02-0734-442a-8030-dbf1f6238ea1.mov)
+
+
+
 
